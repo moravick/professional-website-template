@@ -1,0 +1,277 @@
+{
+    "site_title": "Morgan A Vickery",
+    "navigation": [
+        {
+            "label": "About",
+            "id": "about",
+            "icon": "bi-person-circle"
+        },
+        {
+            "label": "Research",
+            "id": "research",
+            "icon": "bi-search"
+        },
+        {
+            "label": "Publications",
+            "id": "publications",
+            "icon": "bi-book"
+        },
+        {
+            "label": "Projects",
+            "id": "projects",
+            "icon": "bi-diagram-3"
+        },
+        {
+            "label": "Technologies",
+            "id": "technologies",
+            "icon": "bi-cpu"
+        },
+        {
+            "label": "Contact",
+            "id": "contact",
+            "icon": "bi-envelope"
+        }
+    ],
+    "section_titles": {
+        "about": "Who Am I?",
+        "research": "My Research",
+        "publications": "Featured Publications",
+        "projects": "Research Projects",
+        "technologies": "Technologies"
+    },
+    "contact_info": [
+        {
+            "type": "for academic communications",
+            "email": "moravick@iu.edu"
+        },
+        {
+            "type": "for industry communications",
+            "email": "morganavickery@gmail.com"
+        }
+    ],
+    "favicon": "assets/img/icons/moon-stars.svg",
+    "name": "Morgan A Vickery",
+    "rotating_titles": [
+        "Educator",
+        "Researcher",
+        "Designer",
+        "Advocate"
+    ],
+    "hero_description": "I am on the job market seeking TT Assistant Professorships in Learning Sciences, Instructional Design, and/or Learning Technologies.",
+    "socials": {
+        "bluesky": "https://bsky.app/profile/morganavickery.bsky.social",
+        "linkedin": "https://www.linkedin.com/in/morganavickery/",
+        "twitter": "https://twitter.com/_moravick"
+    },
+    "contact": {
+        "email_academic": "moravick@iu.edu",
+        "email_industy": "morganavickery@gmail.com"
+    },
+    "colors": {
+        "": "#151427",
+        "accent": "#006466",
+        "heading": "#ffffff"
+    },
+    "icons": {
+        "about": "bi-person-lines-fill",
+        "projects": "bi-kanban",
+        "technologies": "bi-cpu",
+        "cv": "bi-blockquote-left"
+    },
+    "about_description": "I am an aspiring learning scientist and experience designer with dreams of designing enabling, critical, and multimodal learning environments that recognize and honor youth's bodies.",
+    "about_roles": [
+        {
+            "title": "Doctoral Candidate",
+            "affilation": "Learning Sciences Program at Indiana University - Bloomington"
+        },
+        {
+            "title": "Associate Instructor",
+            "affilation": "EDUC-I 251 Learning Theories for Teachers & EDUC-M 101"
+        },
+        {
+            "title": "Chair",
+            "affilation": "International Learning Sciences Student Association"
+        },
+        {
+            "title": "Graduate Research Assistant",
+            "affilation": "Joshua Danish's RAPT Lab"
+        },
+        {
+            "title": "Graduate Tutor",
+            "affilation": "Writing Tutorial Services"
+        },
+        {
+            "title": "Founder x Chief Technical Officer",
+            "affilation": "LearnabilityHQ.com"
+        },
+        {
+            "title": "UX/Digital Product Designer, Researcher, & Architect",
+            "affilation": "Inquirium, LLC."
+        }
+    ],
+    "research": {
+        "section_title": "Research",
+        "research_areas": [
+            "Body-Inclusive Activity & Technology Design",
+            "Embodied & Multimodal Learning",
+            "Accessibility in UX",
+            "Bodily-Relational Autonomy",
+            "Social Construction of Disability in Schools",
+            "Impacts of Trauma & Body Image on Learning"
+        ],
+        "frameworks": {
+            "Theories": [
+                "Sociocultural & Critical Theories",
+                "Embodied Cognition",
+                "Critical Disability Theory",
+                "Trauma-Informed Pedagogies",
+                "Phenomenology"
+            ],
+            "Methods": [
+                "(Youth) Participatory Methods",
+                "Qualitative Coding",
+                "(Multimodal) Interaction & Video Analysis",
+                "Mediated Discourse Analysis"
+            ],
+            "Design": [
+                "(Youth) Participatory Design",
+                "User/Human-Centered Design",
+                "Trauma-Informed Design",
+                "Universal / Inclusive Design",
+                "Design-Based Research"
+            ]
+        }
+    },
+    "featured_author": "Vickery, M",
+    "publications": [
+        {
+            "authors": "Vickery, M.",
+            "year": "In Press, 2025",
+            "title": "Integrating Critical Theories for More Just Embodied Pedagogies",
+            "journal": "Encyclopedia of Social Justice in Education: Vol. 8 (Bodies and Different Abilities)",
+            "publisher": "Bloomsbury Publishing",
+            "link": ""
+        },
+        {
+            "authors": "Vickery, M., & Danish, J.A.",
+            "year": "Under Review",
+            "title": "Realizations & Re-Mediations: Enabling Participation in Collective Embodied Activities for Children with Disabilities",
+            "journal": "Learning, Cultural, and Social Interaction",
+            "link": ""
+        },
+        {
+            "authors": "Tancredi, S. & Vickery, M.",
+            "year": "2024",
+            "title": "Learning for Every Body: Intersectional Dimensions of Embodied Learning (Symposium)",
+            "journal": "Proceedings of the 18th Annual Meeting of the International Society of the Learning Sciences—ISLS 2024, Buffalo, New York, USA",
+            "link": "https://repository.isls.org/handle/1/10855"
+        },
+        {
+            "authors": "Vickery, M., Mathayas, N., & Danish, J.A.",
+            "year": "2024",
+            "title": "Being Body-Conscious: A Trauma-Informed Inquiry into Elementary Students’ Collective Embodied Learning Experiences",
+            "journal": "Proceedings of the 18th Annual Meeting of the International Society of the Learning Sciences—ISLS 2024, Buffalo, New York, USA",
+            "link": "https://repository.isls.org/handle/1/10826"
+        }
+    ],
+    "projects": [
+        {
+            "title": "A Critical Participatory Study of Body-Inclusive Embodied Activity",
+            "role": "Lead Researcher",
+            "years": "Ongoing",
+            "description": "My ongoing dissertation work featuring 3 articles...",
+            "pi": "Advised by Joshua Danish",
+            "icon": "bi-search-heart",
+            "link": ""
+        },
+        {
+            "title": "Re-Mediating Mixed-Reality for Kids with Disabilities",
+            "role": "Lead Researcher",
+            "years": "Ongoing",
+            "description": "A summer camp for young campers with moderate-to-severe communication disorders...",
+            "pi": "Advised by Joshua Danish",
+            "icon": "bi-brightness-alt-high",
+            "link": ""
+        },
+        {
+            "title": "STEP",
+            "role": "Graduate Research Assistant",
+            "years": "2019 - Present",
+            "description": "In the Science through Technology Enhanced Play (STEP) project...",
+            "pi": "Co-PIs: Joshua Danish & Noel Enyedy",
+            "icon": "bi-flower3",
+            "link": "https://embodiedplay.org"
+        },
+        {
+            "title": "Cities on the Edge of War",
+            "role": "Graduate Research Assistant",
+            "years": "2021 - Present",
+            "description": "A board and roleplaying game developed to help undergraduate history students explore...",
+            "pi": "PI: Joshua Danish",
+            "icon": "bi-crosshair",
+            "link": ""
+        }
+    ],
+    "technologies": [
+        {
+            "title": "LearnabilityHQ.com",
+            "role": "Lead Designer & Developer",
+            "icon": "bi-globe",
+            "link": "https://learnabilityhq.com"
+        },
+        {
+            "title": "RadioEverywhere",
+            "role": "Lead Designer & Developer",
+            "icon": "bi-broadcast",
+            "link": "https://radioeverywhere.org"
+        },
+        {
+            "title": "GEM-STEP",
+            "role": "Graduate Researcher & Designer",
+            "icon": "bi-flower3",
+            "link": "https://embodiedplay.org/"
+        },
+        {
+            "title": "MEME",
+            "role": "Graduate Researcher",
+            "icon": "bi-diagram-2",
+            "link": "https://modelingandevidence.org/"
+        },
+        {
+            "title": "Fieldscope",
+            "role": "Accessibility Consultant & Auditor",
+            "icon": "bi-universal-access",
+            "link": "https://www.fieldscope.org/"
+        },
+        {
+            "title": "To& Through",
+            "role": "Analytics Architect & Data Analyst",
+            "icon": "bi-bar-chart",
+            "link": "https://toandthrough.uchicago.edu/"
+        },
+        {
+            "title": "ILSSA Site",
+            "role": "Lead Designer & Developer",
+            "icon": "bi-browser-edge",
+            "link": "https://sites.google.com/view/ilssa/home"
+        },
+        {
+            "title": "LS Graduate Student Association Site",
+            "role": "Lead Designer & Developer",
+            "icon": "bi-person-badge",
+            "link": "https://lsgsaindiana.wixsite.com/iuls"
+        },
+        {
+            "title": "InqScribe",
+            "role": "Technical Documentation Editor",
+            "icon": "bi-pencil",
+            "link": "https://www.inqscribe.com/"
+        },
+        {
+            "title": "LS Graduate Student Conference Site",
+            "role": "Lead Designer & Developer",
+            "icon": "bi-calendar-check",
+            "link": "https://www.lsgsc.org/"
+        }
+    ]
+}
