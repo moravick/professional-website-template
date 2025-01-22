@@ -120,7 +120,7 @@ span {
 # Global Header
 --------------------------------------------------------------*/
 .header {
-  color: var(--contrast-color);
+  color: rgba(var(--white));
   background-color: rgb(var(--primary_3));
   position: fixed;
   top: 0;
@@ -238,11 +238,13 @@ span {
   padding: 10px 0;
 }
 
+
 .navmenu a {
   display: flex;
   align-items: center;
   text-decoration: none;
-  color: var(--white);
+  color: rgba(var(--white));
+  /* Ensure text is white */
   font-size: 1.1rem;
   transition: color 0.3s ease-in-out;
 }
@@ -250,15 +252,18 @@ span {
 .navmenu a i {
   margin-right: 8px;
   font-size: 1.2rem;
-  color: var(--white);
+  color: rgba(var(--white));
+  /* Ensure icons are white */
 }
 
 .navmenu a:hover {
-  color: var(--grey);
+  color: rgba(var(--accent_1_brightest));
+  /* Optionally change to a contrasting accent color */
 }
 
 .navmenu a:hover i {
-  color: var(--accent_1_brightest); 
+  color: rgba(var(--accent_1_brightest)); 
+  /* Optionally change icons to a brighter accent color */
 }
 
 
@@ -371,7 +376,7 @@ span {
   right: 15px;
   bottom: -15px;
   z-index: 99999;
-  background-color: var(--accent-color);
+  background-color: rgb(var(--accent-color));
   width: 44px;
   height: 44px;
   border-radius: 50px;
@@ -710,7 +715,7 @@ section .content-container {
 .tile-header-stripe {
   background: var(--accent-color);
   /* Default deep indigo */
-  color: var(--white);
+  color: rgba(var(--white));
   text-align: center;
   font-size: 1rem;
   padding: 5px;
@@ -751,7 +756,6 @@ section .content-container {
     padding: 3px 0;
   }
 }
-
 
 
 /*--------------------------------------------------------------
